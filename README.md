@@ -10,6 +10,11 @@ How to install?
 - Go to engine folder and change db.php config file
 - Enjoy!
 
+![card_main](https://user-images.githubusercontent.com/16277392/98988859-74ad6a00-2552-11eb-8b9b-9ea5774cb652.png)
+![login](https://user-images.githubusercontent.com/16277392/98988862-75de9700-2552-11eb-8d1f-db5ec2d15918.png)
+![registration](https://user-images.githubusercontent.com/16277392/98988865-76772d80-2552-11eb-9dcb-6c8cc191fb2b.png)
+
+
 Admin Login:
 Username: admin
 Pass: admin
