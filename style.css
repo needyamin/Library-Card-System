@@ -1,0 +1,93 @@
+
+/* ============================================================== */
+/*all table class and ID start */
+
+/*Login page table */
+.Ltable{background-color: #637b76; padding: 20px; margin: 0 auto; width: 200px; border: 11px solid #b2c5ca;}
+
+.Admintable{background-color: #a21212; padding: 20px; margin: 0 auto; width: 200px; border: 11px solid #d57f7f;}
+
+/*signup page table */
+.Rtable{background-color: #246079; padding: 20px; border: 1px solid #246072;}
+
+tr,td{padding: 15px; width: 150px;}
+
+/*all table class and ID end */
+/* ============================================================== */
+
+/* upload */
+.upload2{font-size: 13px;font-weight: normal; margin-top: 2px; background-color: #246079; color: aliceblue;padding-left: 42px;}
+
+.upload2:hover{background-color: blue;}
+#upload2{font-size: 13px;font-weight: normal; margin-top: 2px;background-color: #246079; color: aliceblue; padding-left: 25px;}
+#upload2:hover{background-color: blue;}
+/* ============================================================== */
+
+.container{margin: 0 auto; width: 535px;}
+.check{margin-top: 2px;padding: 10px; background-color: #246079; color: aliceblue;}
+
+legend {margin-left: calc(40% - 25px - 18px);} 
+#legend {margin-left: calc(45% - 25px - 8px);} 
+#fieldset{width: 50%; margin: 0 auto; margin-top: 10%;}
+/* ============================================================== */
+
+/* ============================================================== */
+.admin{width: 100%; padding: 5px; margin-top: 5px; background:#cc5b17; color: aliceblue;}
+.admin:hover{width: 100%; padding: 5px; margin-top: 5px; background:#5d7fb5; color: aliceblue;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.imgcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%; max-width: 30%; border: 5px solid black;
+}
+
+.signuture{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40px;
+  width: 150px;  
+}
+
+
+
+
+/* font-awsome icon inside input */
+.input-icon{
+  position: absolute;
+  left: 10px;
+  top: calc(50% - 0.5em); 
+}
+
+
+/*input field custom css*/
+input{
+	padding-left: 40px;
+	border-radius: 10px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+    padding-right: 40px;
+}
+.input-wrapper{
+  position: relative;
+}
+/* ============================================================== */
+
+/* ============================================================== */
+/* all buttons */
+.button{width: 100%; padding: 10px; background:#45a245; color: aliceblue; font-weight: bold;}
+.button:hover{width: 100%; padding: 10px; background:blue; color: aliceblue; font-weight: bold;}
+
+.btn{background: blue; color: aliceblue; border: 2px solid blue; width: 42%;}
+.btn:hover{background: red; color: aliceblue; font-weight: bold; width: 42%;}
+/* ============================================================== */
